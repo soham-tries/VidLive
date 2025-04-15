@@ -44,8 +44,8 @@ For VidLive to function effectively, especially behind restrictive NATs or firew
 
 ### Installation
 ```bash
-   git clone https://github.com/ayushkumarTomar/VidLive-omegleClone.git
-   cd VidLive-omegleClone
+  https://github.com/soham-tries/VidLive.git
+  cd VidLive
 ```
 
 ``` bash
