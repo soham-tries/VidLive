@@ -1,10 +1,10 @@
-# OmeLive - A p2p based Omegle Clone
+# VidLive - A p2p based Omegle Clone
 
-## Overview - [liveLink](https://omelive.vercel.app)
+## Overview - [liveLink](https://vid-live-frontend.vercel.app/)
 
-OMELIVE is a real-time, peer-to-peer (P2P) video chat application inspired by Omegle. It enables anonymous video chat sessions between users. OmeLive uses WebRTC technology to establish direct video and audio connections between users, minimizing latency and ensuring secure communication. The application relies on a signaling server for the initial connection setup.
+VidLive is a real-time, peer-to-peer (P2P) video chat application inspired by Omegle. It enables anonymous video chat sessions between users. VidLive uses WebRTC technology to establish direct video and audio connections between users, minimizing latency and ensuring secure communication. The application relies on a signaling server for the initial connection setup.
 ## STUN AND TURN SERVERS
-For OmeLive to function effectively, especially behind restrictive NATs or firewalls, you need to include your own STUN and TURN servers. These servers assist in establishing and maintaining the peer-to-peer connections.
+For VidLive to function effectively, especially behind restrictive NATs or firewalls, you need to include your own STUN and TURN servers. These servers assist in establishing and maintaining the peer-to-peer connections.
 ### Purpose
 - **STUN Servers**: Help discover public IPs and ports for establishing direct peer-to-peer connections.
 - **TURN Servers**: Relay media when direct connections are blocked or unreliable.
@@ -44,8 +44,8 @@ For OmeLive to function effectively, especially behind restrictive NATs or firew
 
 ### Installation
 ```bash
-   git clone https://github.com/ayushkumarTomar/OmeLive-omegleClone.git
-   cd OmeLive-omegleClone
+   git clone https://github.com/ayushkumarTomar/VidLive-omegleClone.git
+   cd VidLive-omegleClone
 ```
 
 ``` bash
