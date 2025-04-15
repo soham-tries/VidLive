@@ -20,7 +20,7 @@ function Page() {
                     Meet new people online
                 </div>
                 <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6 text-white">
-                    OmeLive - Discover Random Connections
+                    VidLive - Make New Connections (Made By : Soham Roy)
                 </h1>
                 <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 rounded-md pb-4 w-fit pt-4">
                     Engage in Random Chats
