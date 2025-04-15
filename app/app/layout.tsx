@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 // export const metadata: Metadata = {
-//   title: "OmeLive",
+//   title: "VidLive",
 //   description: "Chat with strangers",
 // };
 export const viewport: Viewport = {
@@ -14,13 +14,13 @@ export const viewport: Viewport = {
   themeColor: "#ffffff"
 };
 export const metadata: Metadata = {
-  title: "Omelive - Anonymous Connections",
-  description: "Omelive provides a platform for anonymous online interactions. Meet new people, chat, and connect without revealing your identity.",
+  title: "VidLive - Anonymous Connections",
+  description: "VidLive provides a platform for anonymous online interactions. Meet new people, chat, and connect without revealing your identity.",
   keywords: ["anonymous chat", "online connections", "meet strangers", "secure chat", "random chat", "private conversations", "chat without login"],
-  metadataBase: new URL('https://omelive.example.com'),
+  metadataBase: new URL('https://VidLive.example.com'),
   robots: "index, follow, cache",
   alternates: {
-    canonical: 'https://omelive.vercel.app'
+    canonical: 'https://VidLive.vercel.app'
   }
 };
 
@@ -41,9 +41,9 @@ export default function RootLayout({
       __html: JSON.stringify({
         "@context": "https://schema.org",
         "@type": "WebSite",
-        name: "Omelive - Anonymous Connections",
-        url: "https://omelive.vercel.app",
-        description: "Omelive provides a platform for anonymous online interactions. Meet new people, chat, and connect without revealing your identity.",
+        name: "VidLive - Anonymous Connections",
+        url: "https://VidLive.vercel.app",
+        description: "VidLive provides a platform for anonymous online interactions. Meet new people, chat, and connect without revealing your identity.",
       }),
     }}
   />
