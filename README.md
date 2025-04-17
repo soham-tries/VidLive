@@ -2,7 +2,7 @@
 
 ## Overview - [liveLink](https://vid-live-frontend.vercel.app/)
 
-VidLive is a real-time, peer-to-peer (P2P) video chat application inspired by Omegle. It enables anonymous video chat sessions between users. VidLive uses WebRTC technology to establish direct video and audio connections between users, minimizing latency and ensuring secure communication. The application relies on a signaling server for the initial connection setup.
+VidLive is a real-time , peer-to-peer (P2P) video chat application inspired by Omegle. It enables anonymous video chat sessions between users. VidLive uses WebRTC technology to establish direct video and audio connections between users, minimizing latency and ensuring secure communication. The application relies on a signaling server for the initial connection setup.
 ## STUN AND TURN SERVERS
 For VidLive to function effectively, especially behind restrictive NATs or firewalls, you need to include your own STUN and TURN servers. These servers assist in establishing and maintaining the peer-to-peer connections.
 ### Purpose
